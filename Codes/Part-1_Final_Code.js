@@ -9,6 +9,6 @@ const vox =
     .room(0.35).roomsize(7)
     .delay(0.22).delaytime(0.33).delayfeedback(0.35)
     .hpf(90)
-    .gain(0.19)
+    .gain(0.18)
 
 $: vox
