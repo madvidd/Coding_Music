@@ -23,7 +23,6 @@ const lead = cat(
   .orbit(2)
   .gain(0.65)
   ._pianoroll({height:60})
-
 const main = cat(
   note("f#5@4 ~@4"),
   note("g5@4 ~@4"),
