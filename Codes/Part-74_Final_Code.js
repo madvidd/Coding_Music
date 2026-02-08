@@ -297,4 +297,4 @@ const songf = arrange([2, silence], [10, song], [2, silence])
 $: songf
   .superimpose(x => x.osc())
   .punchcard()
-  ._scope({ height: 400 })\
+  ._scope({ height: 400 })
